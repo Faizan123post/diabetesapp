@@ -1,0 +1,2 @@
+# diabetesapp
+DIabetes_prediction_model
